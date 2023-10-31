@@ -25,9 +25,9 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-```
-CALC.HTML
 
+### CAlC.HTML
+```
 <html>
 <head>
     <title>Simple Calculator</title>
